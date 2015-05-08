@@ -1,12 +1,13 @@
 {
-    "name": "dzuelke/PHPCouch",
+    "name": "pelim/PHPCouch",
     "type": "library",
     "description": "A CouchDB library for PHP",
     "homepage": "https://github.com/dzuelke/PHPCouch",
     "license": "MIT",
     "authors": [
         {"name":"Simon Thulbourn"},
-        {"name":"Niklas Närhinen","email":"niklas@narhinen.net","homepage":"http://narhinen.net"}
+        {"name":"Niklas Närhinen","email":"niklas@narhinen.net","homepage":"http://narhinen.net"},
+        {"name":"Peter Limbach"}
     ],
     "require": {
         "php": ">=5.3.0"
