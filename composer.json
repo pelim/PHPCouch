@@ -1,5 +1,5 @@
 {
-    "name": "pelim/PHPCouch",
+    "name": "pelim/php-couch",
     "type": "library",
     "description": "A CouchDB library for PHP",
     "homepage": "https://github.com/dzuelke/PHPCouch",
